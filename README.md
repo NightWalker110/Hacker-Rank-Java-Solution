@@ -2,4 +2,3 @@
 HackerRank Problem Solution
 
 
-n
